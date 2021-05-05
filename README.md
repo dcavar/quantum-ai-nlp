@@ -1,4 +1,4 @@
-# Quantum Computing in the contenxt of AI and Natural Language Processing (NLP)
+# Quantum Computing in the context of AI and Natural Language Processing (NLP)
 
 (C) 2021 by [Damir Cavar]
 
