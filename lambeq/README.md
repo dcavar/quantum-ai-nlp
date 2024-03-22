@@ -4,6 +4,11 @@
 
 This folder contains Jupyter Notebooks with code examples for [lambeq] and other related tools.
 
+The [lambeq documentation](https://cqcl.github.io/lambeq/) provides detailed information about the installation and use of the module.
+
+
+## Links
+
 - [lambeq], Python library for experimental Quantum Natural Language Processing (QNLP)
 - [tket], a quantum SDK
     - [pytket], a quantum computing toolkit and optimizing compiler by Quantinuum
