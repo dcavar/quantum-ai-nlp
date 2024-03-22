@@ -13,7 +13,11 @@ This repo and website provide links and information related to Quantum Computati
 See for more details [Quantum NLP](https://nlp-lab.org/quantumnlp/) at the [NLP-Lab](https://nlp-lab.org/).
 
 
+## Tools and Links
 
+- [Azure Quantum Development Kit (QDK)](https://learn.microsoft.com/en-us/azure/quantum/overview-what-is-qsharp-and-qdk) (and related Visual Studio Code plugin)
+- [Intel® Quantum SDK](https://www.intel.com/content/www/us/en/developer/tools/quantum-sdk/overview.html)
+- [IBM Qiskit SDK](https://docs.quantum.ibm.com/start/install)
 
 
 ## Contributors
